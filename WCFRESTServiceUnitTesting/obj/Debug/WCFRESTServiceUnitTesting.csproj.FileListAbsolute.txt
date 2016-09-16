@@ -1,0 +1,11 @@
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\WCFRESTServiceUnitTesting.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\WCFRESTServiceUnitTesting.pdb
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\Moq.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\nunit.framework.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\WCFMock.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\WCFRestService.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\WCFRestService.pdb
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\bin\Debug\nunit.framework.xml
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\obj\Debug\WCFRESTServiceUnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\obj\Debug\WCFRESTServiceUnitTesting.dll
+C:\Users\walker\Documents\Projects\WCFRESTServiceSkeleton\WCFRESTServiceUnitTesting\obj\Debug\WCFRESTServiceUnitTesting.pdb
